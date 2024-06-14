@@ -1,0 +1,1 @@
+//Handle errors that might occur during the application's execution, such as invalid input or network issues.
